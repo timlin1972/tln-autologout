@@ -1,0 +1,23 @@
+{
+  "name": "tln-autologout",
+  "version": "1.0.0",
+  "description": "autologout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/tln-autologout.git"
+  },
+  "keywords": [
+    "autologout",
+    "tln"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/tln-autologout/issues"
+  },
+  "homepage": "https://github.com/timlin1972/tln-autologout#readme"
+}
